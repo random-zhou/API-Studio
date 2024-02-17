@@ -1,5 +1,5 @@
 # API-Studio
-欢迎大家使用API-Studio，我们会提供以下模型:/n
+欢迎大家使用API-Studio，我们会提供以下模型:
 
 code-llama-13b         
 code-llama-34b        
