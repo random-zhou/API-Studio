@@ -1,5 +1,6 @@
 # API-Studio
-欢迎大家使用API-Studio，我们会提供
+欢迎大家使用API-Studio，我们会提供以下模型:/n
+
 code-llama-13b         
 code-llama-34b        
 code-llama-7b        
@@ -53,4 +54,7 @@ text-embedding-ada-002
 text-embedding-v1     
 text-moderation-latest      
 text-moderation-stable
+
+除此之外，我们提供部分实例使用教程（待更新）;
+
 
