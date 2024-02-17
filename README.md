@@ -1,28 +1,28 @@
 # API-Studio
 欢迎大家使用API-Studio，我们会提供以下模型:
-###可供使用模型
--code-llama-13b         
--code-llama-34b        
--code-llama-7b        
--solar-0-70b        
--stable-diffusion    
--llama-2-13b    
--PaLM-2   
--assistant  
--bing-balanced  
--bing-creative  
--bing-dalle-3  
--bing-precise  
--claude-2-100k   
--claude-2.1   
--claude-instant-100k   
--dall-e-3   
--dalle3   
--gemini-pro   
---gemini-pro-vision    
---google-palm    
--gpt-3.5-turbo    
---gpt-3.5-turbo-0125     
+### 可供使用模型
+- code-llama-13b         
+- code-llama-34b        
+- code-llama-7b        
+- solar-0-70b        
+- stable-diffusion    
+- llama-2-13b    
+- PaLM-2   
+- assistant  
+- bing-balanced  
+- bing-creative  
+- bing-dalle-3  
+- bing-precise  
+- claude-2-100k   
+- claude-2.1   
+- claude-instant-100k   
+- dall-e-3   
+- dalle3   
+- gemini-pro   
+- gemini-pro-vision    
+- google-palm    
+- gpt-3.5-turbo    
+--- gpt-3.5-turbo-0125     
 --gpt-3.5-turbo-0301       
 --gpt-3.5-turbo-0613     
 --gpt-3.5-turbo-1106     
