@@ -1,9 +1,10 @@
 # API-Studio
 欢迎大家使用API-Studio，我们会提供以下模型:
 ### 可供使用模型
-- code-llama-13b         
-- code-llama-34b        
-- code-llama-7b        
+- code-llama
+  - code-llama-13b         
+  - code-llama-34b        
+  - code-llama-7b        
 - solar-0-70b        
 - stable-diffusion    
 - llama-2-13b    
