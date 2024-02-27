@@ -1,6 +1,14 @@
+<!--
+ * @Author: “random-zhou” 2501601106@qq.com
+ * @Date: 2024-02-17 02:09:52
+ * @LastEditors: “random-zhou” 2501601106@qq.com
+ * @LastEditTime: 2024-02-27 23:48:11
+ * @FilePath: \API-Studio\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # API-Studio
-��ӭ���ʹ��API-Studio�����ǻ��ṩ����ģ��:
-### �ɹ�ʹ��ģ��
+欢迎大家使用API-Studio，我们会提供以下模型:
+### 可供使用模型
 | model                   |                       version                                               |
 |-------------------------|-----------------------------------------------------------------------------|
 | code-llama | code-llama-13b; code-llama-34b ; code-llama-7b          |
@@ -23,7 +31,30 @@
         
 
 
-### ʵ�ý̳�
-����֮�⣬�����ṩ����ʵ��ʹ�ý̳̣������£�;
+### 教程
+开始之前我们可以直接clone至本地
+```shell 
+git clone git@github.com:random-zhou/API-Studio.git
+```
+除此之外，我们提供部分实例使用教程
+提供官方实例教程，仅供参考
+
+[官方调用示例](https://github.com/random-zhou/API-Studio/blob/main/%E5%AE%98%E6%96%B9%E8%B0%83%E7%94%A8%E7%A4%BA%E4%BE%8B.py)
+
+[q2a_by_api](https://github.com/random-zhou/API-Studio/blob/main/q2a_by_api.py)
+
+[questToAnswer](https://github.com/random-zhou/API-Studio/blob/main/questToAnswer.py)
+
+登录使用以及注册文档
+（待更新）
+
+可以关注我们公众号获得更多信息以及优惠
+（待更新）
+
+
+如需合作咨询可+wechat：（待更新）
+
+
+
 
 
