@@ -6,10 +6,10 @@ import argparse
 import os
 import time
 
-api_key = ''
-api_base_url = ''
+api_key = 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+api_base_url = 'https://oneapi.run.place/v1'
 
-base_prompt = ''
+base_prompt = '..........................................................（你的需求，什么场景，什么情况，干什么）'
 template = {
     "conversation": [
         {
