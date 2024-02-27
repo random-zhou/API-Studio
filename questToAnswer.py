@@ -3,7 +3,7 @@ from openai import OpenAI
 from tqdm import tqdm
 
 # Define your base prompt as before
-base_prompt='......'
+base_prompt='................................................................（你的需求，什么场景，什么情况，干什么）'
 
 def load_txt(path):
     with open(path, 'r', encoding='utf-8') as f:
