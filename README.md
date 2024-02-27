@@ -2,7 +2,7 @@
  * @Author: “random-zhou” 2501601106@qq.com
  * @Date: 2024-02-17 02:09:52
  * @LastEditors: “random-zhou” 2501601106@qq.com
- * @LastEditTime: 2024-02-27 23:48:11
+ * @LastEditTime: 2024-02-27 23:49:16
  * @FilePath: \API-Studio\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -52,7 +52,7 @@ git clone git@github.com:random-zhou/API-Studio.git
 （待更新）
 
 
-如需合作咨询可+wechat：（待更新）
+如需合作咨询可+wechat：guojiamian11
 
 
 
