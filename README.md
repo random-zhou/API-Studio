@@ -2,7 +2,7 @@
  * @Author: “random-zhou” 2501601106@qq.com
  * @Date: 2024-02-17 02:09:52
  * @LastEditors: “random-zhou” 2501601106@qq.com
- * @LastEditTime: 2024-02-27 23:49:16
+ * @LastEditTime: 2024-02-28 19:00:49
  * @FilePath: \API-Studio\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -46,7 +46,8 @@ git clone git@github.com:random-zhou/API-Studio.git
 [questToAnswer](https://github.com/random-zhou/API-Studio/blob/main/questToAnswer.py)
 
 登录使用以及注册文档
-（待更新）
+
+[登录&使用文档](https://github.com/random-zhou/API-Studio/blob/main/%E7%99%BB%E5%BD%95%26%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.md)
 
 可以关注我们公众号获得更多信息以及优惠
 （待更新）
